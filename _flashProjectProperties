@@ -1,0 +1,62 @@
+<projectDescription>
+  <id>1350751002909</id>
+  <name>VerbaLoop</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Manuel Antonio/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Manuel Antonio/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/MainApp.fla</defaultApp>
+  <rootURI>file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="VerbaLoop.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/VerbaLoop.as</uri>
+    <uri label="VL_AIR.fla">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/VL_AIR.fla</uri>
+    <uri label="ArrowBtn.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/ArrowBtn.as</uri>
+    <uri label="ModuloHandler.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/ModuloHandler.as</uri>
+    <uri label="HowTo.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/HowTo.as</uri>
+    <uri label="RecoverVLoopPC.fla">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/RecoverVLoopPC.fla</uri>
+    <uri label="Bonus3Option.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Bonus3Option.as</uri>
+    <uri label="Tutorial.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Tutorial.as</uri>
+    <uri label="Bonus2Option.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Bonus2Option.as</uri>
+    <uri label="Bonus1Option.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Bonus1Option.as</uri>
+    <uri label="Bonus.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Bonus.as</uri>
+    <uri label="Actividad.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Actividad.as</uri>
+    <uri label="HomeBtn.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/HomeBtn.as</uri>
+    <uri label="LvlThumb.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/LvlThumb.as</uri>
+    <uri label="Modulo.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Modulo.as</uri>
+    <uri label="ModuloInfo.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/ModuloInfo.as</uri>
+    <uri label="Atril.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Atril.as</uri>
+    <uri label="BonusCoin.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/BonusCoin.as</uri>
+    <uri label="SplashLogo.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/SplashLogo.as</uri>
+    <uri label="ButtonLarge.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/ButtonLarge.as</uri>
+    <uri label="B3_button.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/B3_button.as</uri>
+    <uri label="B2_button.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/B2_button.as</uri>
+    <uri label="B1_button.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/B1_button.as</uri>
+    <uri label="Dialogo.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Dialogo.as</uri>
+    <uri label="RecoverVLoop.fla">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/RecoverVLoop.fla</uri>
+    <uri label="largeSplash.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/largeSplash.as</uri>
+    <uri label="TapAlert.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/TapAlert.as</uri>
+    <uri label="MainApp.fla">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/MainApp.fla</uri>
+    <uri label="MainApp.swf">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/MainApp.swf</uri>
+    <uri label="BonusItem.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/BonusItem.as</uri>
+    <uri label="Button.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/Button.as</uri>
+    <uri label="usuario.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/usuario.as</uri>
+    <uri label="gameSetup.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/gameSetup.as</uri>
+    <uri label="bg1.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/bg1.as</uri>
+    <uri label="ButtonSmall.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/ButtonSmall.as</uri>
+    <uri label="SoundTrack.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/SoundTrack.as</uri>
+    <uri label="shadowMC.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/shadowMC.as</uri>
+    <uri label="PauseBtn.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/PauseBtn.as</uri>
+    <uri label="VolBtn.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/VolBtn.as</uri>
+    <uri label="ResetBtn.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/ResetBtn.as</uri>
+    <uri label="PauseMenu.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/PauseMenu.as</uri>
+    <uri label="iconoModulo.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/iconoModulo.as</uri>
+    <uri label="setupClass.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/setupClass.as</uri>
+    <uri label="levelSelectionMc.as">file:///D|/Kuppa/_yoggsoft_games/Argentina/VLoop/levelSelectionMc.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
